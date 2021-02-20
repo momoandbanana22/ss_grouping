@@ -19,6 +19,11 @@ In $TargetDirectory in the program, please set the path to the screenshot files 
 $TargetDirectory = "C:\temp\SSグループ分け"
 ```
 
+### How to run.
+* right click the`ss_grouping.ps1` file.
+  ![](right_click.png)
+* select 'Run with PowerShell'
+
 ## ss_moveup.ps1
 This is a program for ungrouping.
 
